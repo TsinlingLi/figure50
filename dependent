@@ -5,3 +5,4 @@ python env
 1. matplotlib: 最基础的可视化工具包
 2. seaborn: matplotlib的高级封装库
 3. brewer2mpl: colorbrewer2色谱工具
+4. statsmodels: 统计模块
